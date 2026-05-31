@@ -1,1 +1,2 @@
-print("Hello World!")
+print("Hello World!\n\n")
+print("Welcome to my script!")
